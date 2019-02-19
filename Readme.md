@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Sasha Katushkova](https://up.htmlacademy.ru/ecmascript/8/user/280363).
-* Наставник: `Неизвестно`.
+* Наставник: `test`.
 
 ---
 
